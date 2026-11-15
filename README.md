@@ -7,4 +7,4 @@ Terraform · Azure Firewall · Private Endpoints · Azure Policy · GitHub Actio
 
 **Certifications:** AZ-104 · AZ-900 · SC-900
 
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/premkpg/)
+📫 [LinkedIn](https://www.linkedin.com/in/premkpg/)
